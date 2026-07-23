@@ -28,3 +28,11 @@ I'm a final-year Electronics and Communication Engineering student at the Instit
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+## 👨‍💻 About Me
+
+- 🎓 Final Year B.Tech (ECE) Student at **Institute of Aeronautical Engineering**
+- 🤖 Passionate about Artificial Intelligence and Data Analytics
+- 🌱 Currently learning **Machine Learning, Deep Learning, and Generative AI**
+- 💻 Strong in **Python, SQL, NumPy, Pandas, Flask, Git & GitHub**
+- 📈 Interested in Data Science, AI Agents, and Automation
+- 🎯 Goal: Become an AI Engineer and build impactful AI products

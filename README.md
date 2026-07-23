@@ -51,3 +51,10 @@ I'm a final-year Electronics and Communication Engineering student at the Instit
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kumaradabala729&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+</p>

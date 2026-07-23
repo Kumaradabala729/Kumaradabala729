@@ -36,3 +36,11 @@ I'm a final-year Electronics and Communication Engineering student at the Instit
 - 💻 Strong in **Python, SQL, NumPy, Pandas, Flask, Git & GitHub**
 - 📈 Interested in Data Science, AI Agents, and Automation
 - 🎯 Goal: Become an AI Engineer and build impactful AI products
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,django,mysql,git,github,vscode,linux"/>
+
+</p>

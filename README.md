@@ -10,3 +10,6 @@ Aspiring AI Engineer | Data Analyst | Python Developer
 <p align="center">
 I'm a final-year Electronics and Communication Engineering student at the Institute of Aeronautical Engineering, passionate about Artificial Intelligence, Data Analytics, Python development, and solving real-world problems through technology.
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+Developer;Data+Analyst;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+</p>

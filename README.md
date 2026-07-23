@@ -73,3 +73,23 @@ I'm a final-year Electronics and Communication Engineering student at the Instit
 <img src="https://streak-stats.demolab.com?user=Kumaradabala729&theme=tokyonight&hide_border=true"/>
 
 </p>
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumaradabala729&theme=tokyo-night&hide_border=true"/>
+
+</p>
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Email Support Agent | Intelligent email automation using n8n and AI |
+| 📊 Neural Retail AI Sales Intelligence | Machine Learning project for retail sales prediction |
+| 🔍 Campus Lost & Found Management | Flask + MySQL web application |
+| 🚗 Vehicle Detection System | AI-based object detection project |
+| 📡 UART Verification using UVM | Final-year academic project |

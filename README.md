@@ -64,3 +64,12 @@ I'm a final-year Electronics and Communication Engineering student at the Instit
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaradabala729&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kumaradabala729&theme=tokyonight&hide_border=true"/>
+
+</p>

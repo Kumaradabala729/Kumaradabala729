@@ -41,6 +41,6 @@ I'm a final-year Electronics and Communication Engineering student at the Instit
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,django,mysql,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,,flask,django,mysql,Tableau,git,github,vscode,linux"/>
 
 </p>

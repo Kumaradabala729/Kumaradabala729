@@ -36,11 +36,18 @@ I'm a final-year Electronics and Communication Engineering student at the Instit
 - 💻 Strong in **Python, SQL, NumPy, Pandas, Flask, Git & GitHub**
 - 📈 Interested in Data Science, AI Agents, and Automation
 - 🎯 Goal: Become an AI Engineer and build impactful AI products
-
 ## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,,flask,django,mysql,Tableau,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,flask,django,mysql,git,github,vscode,linux" />
 
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>

@@ -101,3 +101,8 @@ I'm a final-year Electronics and Communication Engineering student at the Instit
 ⭐ "Code. Learn. Build. Repeat."
 
 </h3>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kumaradabala729/Kumaradabala729/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>

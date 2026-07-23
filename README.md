@@ -93,3 +93,11 @@ I'm a final-year Electronics and Communication Engineering student at the Instit
 | 🔍 Campus Lost & Found Management | Flask + MySQL web application |
 | 🚗 Vehicle Detection System | AI-based object detection project |
 | 📡 UART Verification using UVM | Final-year academic project |
+
+---
+
+<h3 align="center">
+
+⭐ "Code. Learn. Build. Repeat."
+
+</h3>
